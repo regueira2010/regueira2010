@@ -1,4 +1,4 @@
-# Hola, soy Nicolás Jesús Regueira González 👋
+# Hola, soy Nicolás Regueira 👋
 
 ### Especialista en Soporte TI & Infraestructura | AWS Certified Cloud Practitioner
 
