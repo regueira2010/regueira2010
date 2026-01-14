@@ -30,4 +30,7 @@ Soy un profesional con más de 10 años de trayectoria garantizando la continuid
 - 📧 regueira2010@gmail.com
 - 🌐 [Mi Skill Profile de AWS](https://skillsprofile.skillbuilder.aws/user/nregueira/builderlabs)
 
-![Estadísticas de Nicolás](https://github-readme-stats.vercel.app/api?username=regueira2010&show_icons=true&theme=radical)
+### 📈 Estadísticas de GitHub
+![Estadísticas de Nicolás](https://github-readme-stats.vercel.app/api?username=regueira2010&show_icons=true&theme=radical&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=regueira2010&layout=compact&theme=radical&hide_border=true)
