@@ -15,8 +15,10 @@ Soy un profesional con más de 10 años de trayectoria garantizando la continuid
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 [![React Junior Certificate](https://img.shields.io/badge/React_Certified-Junior-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a16dca4a-e35c-46b4-9806-0f9fb6d8ca7c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📈 Logros Recientes
 - 🎓 **AWS Certified Cloud Practitioner** (Ene 2026).
