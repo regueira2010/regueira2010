@@ -13,7 +13,7 @@ Soy un profesional con más de 10 años de trayectoria garantizando la continuid
 
 ### 🛠️ Tecnologías y Herramientas
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![React Junior Certificate](https://img.shields.io/badge/React_Certified-Junior-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a16dca4a-e35c-46b4-9806-0f9fb6d8ca7c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
