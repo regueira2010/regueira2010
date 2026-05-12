@@ -18,7 +18,7 @@ Soy un profesional con más de 10 años de trayectoria garantizando la continuid
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://udemy-certificate.s3.amazonaws.com/image/UC-2bf9173d-c15c-4b43-8bec-c4c84f653b84.jpg)
 
 ### 📈 Logros Recientes
 - 🎓 **AWS Certified Cloud Practitioner** (Ene 2026).
