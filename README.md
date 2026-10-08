@@ -56,11 +56,12 @@ Si estás por acá, siéntete libre de explorar mis repositorios, revisar el có
 
 ### Proyectos en los que he estado trabajando
 
-#### [AWS-API-JAVA](https://github.com/regueira2010/AWS-API-JAVA)
-> **API REST sobre el catálogo canónico de más de 280 servicios de AWS y certificaciones**
-* **La idea:** Construir un servicio backend robusto en Java 21 y Spring Boot 3 para catalogar la nube de AWS, utilizándolo como laboratorio de arquitectura y resiliencia.
-* **Qué exploré aquí:** Arquitectura Hexagonal pura (dominio desacoplado), control de tráfico con Bucket4j (rate-limiting por IP), caché L1 con Caffeine, validación condicional ETag (HTTP 304) y optimización de batch fetching en Hibernate (`@BatchSize`) para evitar el problema N+1.
-* **Stack:** `Java 21` `Spring Boot 3` `PostgreSQL 16` `Flyway` `Caffeine` `Bucket4j` `Docker` `OpenAPI`
+#### [AWS Cloud Catalog Ecosystem](https://github.com/regueira2010/AWS-API-JAVA)
+> **Ecosistema Full Stack: Backend Java 21 / Spring Boot 3 + Cliente SPA React 19**
+* **La idea:** Catálogo interactivo de más de 280 servicios de AWS, sinergias de certificación y capa gratuita, desarrollado bajo arquitectura desacoplada de alto rendimiento.
+* **Backend ([AWS-API-JAVA](https://github.com/regueira2010/AWS-API-JAVA)):** Arquitectura Hexagonal, control de tráfico con Bucket4j (Rate-Limiting), caché L1 con Caffeine, validación condicional ETag (HTTP 304), Flyway migrations y Docker. Desplegado en Render con Swagger UI y OpenAPI spec.
+* **Frontend ([aws-services-client](https://github.com/regueira2010/aws-services-client)):** React 19, Tailwind CSS v4, búsqueda debounced en tiempo real, persistencia en localStorage con revalidación y CI/CD con GitHub Actions.
+* **Stack:** `Java 21` `Spring Boot 3` `React 19` `Tailwind CSS v4` `PostgreSQL 16` `Flyway` `Caffeine` `Docker` `Render` `OpenAPI`
 
 #### [TaskPoints](https://github.com/regueira2010/taskpoints)
 > **Tablero de priorización y gestión diaria basado en la Matriz de Eisenhower**
